@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Accredian-frontend-task/static/css/main.4639e7aa.css",
-    "main.js": "/Accredian-frontend-task/static/js/main.f59e88e5.js",
+    "main.js": "/Accredian-frontend-task/static/js/main.c809ac55.js",
     "static/js/453.45f62ee7.chunk.js": "/Accredian-frontend-task/static/js/453.45f62ee7.chunk.js",
     "index.html": "/Accredian-frontend-task/index.html",
     "main.4639e7aa.css.map": "/Accredian-frontend-task/static/css/main.4639e7aa.css.map",
-    "main.f59e88e5.js.map": "/Accredian-frontend-task/static/js/main.f59e88e5.js.map",
+    "main.c809ac55.js.map": "/Accredian-frontend-task/static/js/main.c809ac55.js.map",
     "453.45f62ee7.chunk.js.map": "/Accredian-frontend-task/static/js/453.45f62ee7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4639e7aa.css",
-    "static/js/main.f59e88e5.js"
+    "static/js/main.c809ac55.js"
   ]
 }
