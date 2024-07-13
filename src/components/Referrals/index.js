@@ -34,7 +34,7 @@ const Referrals = () => {
   }, []);
 
   const fetchReferralsData = async () =>{
-    const apiUrl = "http://localhost:19884/referrals-data"
+    const apiUrl = "https://accredian-backend-task-phq1.onrender.com/referrals-data"
     const options = {
       method : "GET",
       headers : {
@@ -99,7 +99,7 @@ const Referrals = () => {
     }
     const referreDetails = {...refereeDetails}
 
-    const apiUrl = "http://localhost:19884/add-referre"
+    const apiUrl = "https://accredian-backend-task-phq1.onrender.com/add-referre"
     const options = {
       method : "POST",
       headers : {
