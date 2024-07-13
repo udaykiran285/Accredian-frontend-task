@@ -1,0 +1,34 @@
+.refer-bg{
+    background: linear-gradient(135deg, rgba(173, 216, 230, 0.7), rgba(255, 255, 255, 0.7));
+    box-shadow: 0 0 15px rgba(173, 216, 230, 0.5);
+    border-radius: 1rem;
+    height:70vh;
+    h1{
+        font-family: "Roboto";
+        font-weight: 600;
+        font-size: 3.5rem;
+    }
+    h3{
+        font-family: "Barlow";
+        span{
+            font-weight: 600;
+            color:#0b8dde;
+        }
+    }
+    button{
+        width:8rem;
+    }
+}
+.refer-image{
+    
+}
+
+.refer-outer-container{
+    height:80vh
+}
+
+.accredian-logo-refer{
+    height: 3.5rem;
+    width:12rem;
+}
+

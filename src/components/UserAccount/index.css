@@ -1,0 +1,46 @@
+.user-account-container {
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-account-heading {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .user-profile {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .user-info {
+    margin-top: 20px;
+  }
+  
+  .user-info-item {
+    margin-bottom: 10px;
+  }
+  
+  .user-info-item strong {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .user-info-item span {
+    color: #555;
+  }
+
+
+  

@@ -1,0 +1,62 @@
+.signup-container{
+    height:80vh;
+    div{
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        border-radius: 3rem;
+        padding: 2rem;
+        img{
+            height:22rem;
+            width:19rem;
+        }
+        form{
+            margin-right: 1rem;
+            label{
+                font-family: "Barlow";
+                font-weight: 600;
+                font-size: 0.8rem;
+            }
+            input{
+                border:0;
+                border-bottom:1px solid #0d6efd;
+                outline:none;
+                width:13rem;
+            }
+            h1{
+                color:#0d6efd;
+                font-family: "Roboto";
+                font-size: 2rem;
+            }
+            p{
+                color:red;
+                font-size: 0.6rem;
+                font-family: "Roboto";
+                font-weight: 600;
+            }
+            .referral-container{
+                width:13rem;
+                box-shadow: none;
+                border-radius: 0;
+                padding:0;
+                label{
+                    font-family: "Barlow";
+                    font-weight: 600;
+                    font-size: 0.8rem;
+                }
+                input{
+                    border:1px solid #0d6efd;
+                    outline:none;
+                    width:30%;
+                    height: 1.3rem;
+                    margin-bottom: 0.3rem;
+                    padding: 0.4rem;
+                    border-radius: 1rem;
+                    box-sizing: border-box;
+                    font-size: 0.8rem;
+                    font-family: "Roboto";
+                    color:black;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+}

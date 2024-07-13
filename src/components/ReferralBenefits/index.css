@@ -1,0 +1,46 @@
+.list-group-item {
+  cursor: pointer;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+  .list-group-item {
+    text-align: center;
+  }
+
+  .d-flex {
+    flex-direction: column;
+  }
+
+  .d-flex .btn {
+    margin-bottom: 10px;
+  }
+
+  .d-flex .form-check {
+    margin-bottom: 10px;
+  }
+}
+
+.icon-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.icon-row .icon {
+  margin: 0 10px;
+}
+
+.icon-row .icon i {
+  font-size: 24px;
+  color: #007bff;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.icon-row .icon i:hover {
+  color: #0056b3;
+}
