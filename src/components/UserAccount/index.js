@@ -18,7 +18,7 @@ const UserAccount = () => {
 
     const fetchUserDetails = async () => {
         const jwtToken = Cookies.get("jwtToken")
-            const apiurl = "http://localhost:19884/user-details"
+            const apiurl = "https://accredian-backend-task-phq1.onrender.com/user-details"
             const options ={
                 method : "GET",
                 headers : {
