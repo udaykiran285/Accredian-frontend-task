@@ -44,7 +44,7 @@
   /* Smaller devices */
   @media only screen and (max-width: 768px) {
     .refer-two-bg {
-      height: 80vh;
+      height: 100vh;
     }
   }
   
